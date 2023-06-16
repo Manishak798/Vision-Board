@@ -1,0 +1,103 @@
+
+h1{
+    font-size: 5rem;
+    font-family:cursive;
+    text-align: center;
+    animation-name: h1;
+ 
+}
+@keyframes html {
+from{background-color:rgb(249, 247, 243); left: 5rem;top: 4rem;}
+        to{
+            background-color:rgb(223, 223, 206);
+        }
+}
+html{
+    animation-name: html;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+#note>img{
+ width: 15rem;
+ height: 15rem;
+ object-position: center;
+ border: 6px  solid;
+ 
+ padding: 20px;
+ margin-left: 50px;
+ }
+div>p{
+margin-left: 120px;
+font-size: 1em;
+}
+#home>img{
+width: 15rem;
+ height: 15rem;
+ margin-left: 200px;
+ margin-top: 0px;
+ border: 6px  solid;
+ padding: 20px;
+}
+div#home>p{
+    margin-left: 250px;
+    font-size: 1em;
+}
+#self-care>img{
+width: 15rem;
+ height: 15rem;
+ border: 6px  solid;
+ padding: 20px;
+}
+#self-care>p{
+    margin-left: 20px;
+    font-size: 1em;
+}
+#city>p{
+    margin-left: 300px;
+}
+#city>img{
+width:15rem;
+ height: 15rem;
+ border: 6px solid;
+ padding: 20px;
+ margin-left: 200px;
+ }
+ #place>p{
+    margin-left: 50px;
+ }
+#place>img{
+width: 15rem;
+ height: 15rem;
+ border: 6px  solid;
+ padding: 20px;
+}
+#sweet>p{
+    margin-left: 270px;
+}
+#sweet>img{
+    width: 15rem;
+ height: 15rem;
+ border: 6px  solid;
+ padding: 20px;
+ margin-left: 200px;
+}
+div#night>p{
+    margin-left: 50px;
+}
+#night>img{
+    width: 15rem;
+ height: 15rem;
+ border: 6px  solid;
+ padding: 20px;
+}
+div#googlelondon>p{
+     margin-left: 250px;
+    font-size: 1rem;
+}
+#googlelondon>img{
+ width: 15rem;
+ height: 15rem;
+ border: 6px  solid;
+ padding: 20px;
+ margin-left: 200px;
+}
